@@ -1,4 +1,6 @@
-### Hi there 👋
+
+### Hi there I am n0rthdev👋
+![Banner](img/banner.jpg)
 
 <!--
 **n0rthdev/n0rthdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
